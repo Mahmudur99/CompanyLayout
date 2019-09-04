@@ -1,0 +1,198 @@
+body{
+    background-color: rgba(119, 154, 155, 0.38);	
+    padding: 0;
+    margin-top: 0;
+}
+
+.logo{
+	background-color: rgba(10, 63, 70, 0.7);
+	min-height: 120px;
+	margin-top: 30px;
+	margin-left: 45px;
+	margin-right: 45px;
+    position: relative;
+}
+.logo h1 {
+	color: rgb(168, 211, 213);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.header{
+	background-color: 	rgba(32, 217, 40, 0.55);
+	min-height: 160px;
+	margin-top: 10px;
+	margin-left: 45px;
+	margin-right: 45px;
+}
+.header h1{
+	color: rgb(5, 49, 51);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.wrapper1{
+	overflow: hidden;
+}
+
+.navigation{
+	background-color: 	rgba(0, 130, 204, 0.58);
+	min-height: 60px;
+	width:22%;
+	float:left;
+	margin-right: 11px;
+	margin-left: 45px;
+	margin-top: 10px;
+
+}
+
+.navigation h1{
+	color: rgb(5, 49, 51);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+
+}
+
+.navigation1{
+	background-color: 	rgba(33, 137, 166, 0.77);
+	min-height: 60px;
+	width:22%;
+	float:left;
+	margin-right: 11px;
+	margin-left: 11px;
+	margin-top: 10px;
+
+}
+.navigation2{
+	background-color: 	rgba(33, 137, 166, 0.77);	
+	min-height: 60px;
+	width:22%;
+	float:left;
+	margin-right: 11px;
+	margin-left: 11px;
+	margin-top: 10px;
+
+}
+.navigation3{
+	background-color: rgba(0, 53, 204, 0.7);
+	min-height: 60px;
+	width:22%;
+	float:left;
+	margin-right: 47px;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+.wrapper {
+	overflow: hidden;
+}
+
+.about{
+		background-color: 	rgba(204, 0, 0,0.7);
+	min-height: 500px;
+	width:65%;
+	float:left;
+	margin-right: 10px;
+	margin-left: 45px;
+	margin-top: 10px;
+}
+
+.about h1{
+	color: rgb(168, 211, 213);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.wrapper2{
+	overflow: hidden;
+}
+
+.quick_links{
+		background-color: green;
+	min-height: 190px;
+	width:85%;
+	float:right;
+	margin-top: 10px;
+	margin-right: 45px;
+}
+
+.quick_links h1{
+	color: rgb(168, 211, 213);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+
+}
+.quick_links1{
+		background-color: green;
+	min-height: 280px;
+	width:85%;
+	float:right;
+	margin-top: 10px;
+	margin-right: 45px;
+}
+
+.quick_links1 h1{
+	color: rgb(168, 211, 213);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+
+}
+
+.siteplan{
+	background-color: red;
+	min-height: 50px;
+	margin-top: 10px;
+	margin-right: 45px;
+	margin-left: 45px;
+	margin-bottom: 30px;
+	clear: both;
+}
+
+.siteplan h1{
+	color: rgb(168, 211, 213);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+
+}
